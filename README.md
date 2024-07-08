@@ -1,1 +1,1 @@
-# among-us-game
+# among-us-run
